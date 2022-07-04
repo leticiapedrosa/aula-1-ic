@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+.cachorro {width: 90px;
+height:89px;}
+
+#dog {width: 100px;}
+
+div p {background-color: pink;}
+
+.rosa {
+    background-color: pink;
+    padding-top: 20px;
+    border: 5px solid black;
+}
+.left-menu {background-color: brown;}
